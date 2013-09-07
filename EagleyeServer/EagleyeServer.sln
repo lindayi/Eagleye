@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{26092F35-836F-4387-AE38-55C733A825E0}") = "EagleyeServer", "EagleyeServer.vcproj", "{E0A90284-3CA8-4823-8E2E-217D993AEBD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A90284-3CA8-4823-8E2E-217D993AEBD4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E0A90284-3CA8-4823-8E2E-217D993AEBD4}.Debug|Win32.Build.0 = Debug|Win32
+		{E0A90284-3CA8-4823-8E2E-217D993AEBD4}.Release|Win32.ActiveCfg = Release|Win32
+		{E0A90284-3CA8-4823-8E2E-217D993AEBD4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
